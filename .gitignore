@@ -24,7 +24,7 @@ lerna-debug.log*
 *.sw?
 
 # Keep environment variables out of version control
-.env
+.env*
 
 # Prisma
 server/prisma/*.db
