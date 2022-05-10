@@ -24,21 +24,18 @@ recebidos.
 -   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="16px" /> Typescript
 -   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> React JS
 -   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> React Native
--   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> React Native Svg
--   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> React Native Gesture Handler
--   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> React Native Reanimated
 -   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="16px" /> Tailwind CSS
--   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg" width="48px" /> Axios
+-   [x] <img src="https://svgshare.com/i/h0A.svg" width="16px" /> Axios
 -   [x] <img src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" width="16px" /> Jest
 -   [x] <img src="https://static.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="16px" /> Node.js
--   [x] <img src="https://static.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="32px" /> Express.js
+-   [x] <img src="https://static.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="16px" /> Express.js
 -   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="16px" /> PostgreSQL
--   [x] <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="16px" /> Prisma
--   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> SOLID Fundamentals
+-   [x] <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="16px" /> Prisma
+-   [x] <img src="https://svgshare.com/i/gya.svg" width="16px" /> SOLID Fundamentals
 -   [x] <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="16px" /> Expo
 -   [x] <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="16px" /> Expo Google Fonts
--   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> Railway for deployment
--   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> Vercel for deployment
+-   [x] <img src="https://railway.app/brand/logo-dark.svg" width="16px" /> Railway for backend deployment
+-   [x] <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="16px" /> Vercel for frontend deployment
 
 
 ## :hammer_and_wrench: Features 
