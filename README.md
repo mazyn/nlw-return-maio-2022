@@ -14,7 +14,7 @@ React Native, Node.js, Vite e mais.
 </p>
 
 ## 💻 Projeto
-Widget interativo, para coleção feedbacks (com possibilidade de fotos) de usuários, podendo ser integrado em sites e 
+Widget interativo, para coleção de feedbacks (com possibilidade de fotos) de usuários, podendo ser integrado em sites e 
 aplicativos de terceiros. Um e-mail de um responsável pode ser configurado para receber notificações de feedbacks 
 recebidos.
 
@@ -22,23 +22,23 @@ recebidos.
 
 -   [x] <img src="https://vitejs.dev/logo.svg" width="16px" /> Vite
 -   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="16px" /> Typescript
--   [x] React JS
--   [x] React Native
--   [x] Tailwind CSS
--   [x] Jest
--   [x] Expo
--   [x] React Native Svg
--   [x] Axios
--   [x] Expo Google Fonts
--   [x] React Native Gesture Handler
--   [x] React Native Reanimated
--   [x] Node.js
--   [x] Express.js
--   [x] Prisma
--   [x] PostgreSQL
--   [x] SOLID Fundamentals
--   [x] Railway for deployment
--   [x] Vercel for deployment
+-   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> React JS
+-   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> React Native
+-   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> React Native Svg
+-   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> React Native Gesture Handler
+-   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> React Native Reanimated
+-   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="16px" /> Tailwind CSS
+-   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg" width="48px" /> Axios
+-   [x] <img src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.svg" width="16px" /> Jest
+-   [x] <img src="https://static.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="16px" /> Node.js
+-   [x] <img src="https://static.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="32px" /> Express.js
+-   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="16px" /> PostgreSQL
+-   [x] <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="16px" /> Prisma
+-   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> SOLID Fundamentals
+-   [x] <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="16px" /> Expo
+-   [x] <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="16px" /> Expo Google Fonts
+-   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> Railway for deployment
+-   [x] <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16px" /> Vercel for deployment
 
 
 ## :hammer_and_wrench: Features 
@@ -46,7 +46,7 @@ recebidos.
 -   [x] Recebimento de feedback de usuários, separando por 3 tipos diferentes (bug, ideia ou outros);
 -   [x] Permite captura da tela para envio no feedback (captura feita de forma automática, num clique de um botão);
 -   [x] Envia feedback para e-mail configurado;
--   [x] 100% compatível com padrões ARIA, sendo possível utilizar todo o widget com apenas o teclado;
+-   [x] 100% compatível com padrões ARIA para acessibilidade, sendo possível utilizar todo o widget com apenas o teclado;
 -   [x] Disponível para websites e aplicativos móveis.
 
 ## 🔖 Layout
